@@ -1,0 +1,1 @@
+START EXCEL.EXE %1 /e
